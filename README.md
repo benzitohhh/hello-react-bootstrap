@@ -1,4 +1,15 @@
-# Add title here
+# Hello react bootstrap
+
+Experiments with https://react-bootstrap.github.io
+
+
+## Currently...
+
+As of Spetember 2015, React-Bootstrap has most of Bootstrap's components.
+
+But... radio/checkbox groups are still missing:
+https://github.com/react-bootstrap/react-bootstrap/issues/342
+Hopefully this will be resolved soon.
 
 
 ## To install
